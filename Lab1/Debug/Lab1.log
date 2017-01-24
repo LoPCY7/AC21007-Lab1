@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\paris\documents\visual studio 2015\projects\ac21007\lab1\lab1\main.cpp(17): warning C4101: 'n2': unreferenced local variable
+c:\users\paris\documents\visual studio 2015\projects\ac21007\lab1\lab1\main.cpp(93): warning C4715: 'oddRecursive': not all control paths return a value
+  Lab1.vcxproj -> c:\users\paris\documents\visual studio 2015\Projects\AC21007\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> c:\users\paris\documents\visual studio 2015\Projects\AC21007\Lab1\Debug\Lab1.pdb (Full PDB)
